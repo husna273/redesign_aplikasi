@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">day5</string>
+    <string name="title_home">Rumah</string>
+    <string name="title_dashboard">Beranda</string>
+    <string name="title_notifications">Notfikasi</string>
+    <string name="profile">Profil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Apa Kabar Kamu</string>
+    <string name="name">nama</string>
+    <string name="grok">grok</string>
+    <string name="search">search</string>
+</resources>
